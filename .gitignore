@@ -1,0 +1,10 @@
+ipch/
+Debug/
+toolkit/Debug/
+Release/
+toolkit/Release/
+*.aps
+*.opensdf
+*.sdf
+*.suo
+
